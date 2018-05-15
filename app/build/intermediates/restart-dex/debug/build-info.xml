@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="181861711442488"
+    token="-1025660000174758999" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build timestamp="181744770075553" >
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="181818254370235" >
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_1bf82e944365051a0359db992d752f94f1456653\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_15b6eeba6f4091148daf17c93cadb10f78e739e7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_04aa006bb7adb4b0109b0848aae9f0b133ead299\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_629138a2b6e1afff1533f92d3f488d4b1fd50af1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f40951100a47b48f5b065028e3fd9c08de710327\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_484e041dfee24ca34ea26036ac2f8809b7689e61\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ae1533daab73ff2291446383705c9ab4a0daa003\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9322ec90ce64df2ed706af132f41f6849e74e5aa\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_495919c02decac974fea554169eecd04c9764a27\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_90dec34203f07fee7a60148f63541102978b5c91\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3350c2249ef2a268c71556d736e2ff3a0aecec95\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_14b673dffaae4e5b652aecc8f4961feb3b60f6ce\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_77f0a5d640751eb597d929a01f0dc612feaf2e33\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_184b9600e34619789993dbfe45453013ccaf5b60\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4bacc9e6c9999313f741548218acae5fc0ff18e7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_b7af0db2c50854542330a56a0912b89f7b51adc8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Users\Leonardo\AndroidStudioProjects\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1b2451e994e5c1c5fc1f36d2141d5d1cbd8aadbc\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="181861711442488" />
+
+</instant-run>
